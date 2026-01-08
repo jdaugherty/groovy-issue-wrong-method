@@ -1,0 +1,1 @@
+# groovy-issue-protected
