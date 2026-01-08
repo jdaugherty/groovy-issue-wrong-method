@@ -1,4 +1,4 @@
-rootProject.name = 'groovy-issue-protected'
+rootProject.name = 'groovy-issue-wrong-method'
 
 include 'java-base'
 include 'groovy-extension'
